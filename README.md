@@ -22,3 +22,9 @@ write_to_buffer.c	functions that write to buffer
 flags_functions.c	flags
 convert_strings.c	convert to root13
 align_handler.c	corrects alligment
+
+# Contributors 👫
+
+Adesanya Abayomi Gabriel
+
+Uye Princess Arit
